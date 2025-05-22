@@ -1,0 +1,7 @@
+baseURL: https://www.chrisbues.com/
+languageCode: en-us
+title: Christopher Bues
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
